@@ -17,3 +17,7 @@ Ans:    A fork refers to making a copy of someone else repository on github to o
          I would use clone to copy the forked repository to my local machine
          I would use branches to make changes locally
 
+
+4)What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans:	Having a local copy allows us to compare the remote with the local and also
+	allows access to the remote without internet.
