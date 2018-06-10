@@ -28,3 +28,8 @@ Ans:	Without github we would have to hold personal meetings to discuss implement
 	It would be easier to explain the problem exactly without emails and stuff.
 	    But it would be hard to keep record of history of the project for outsiders
 	    and also it would be hard to work when people are apart.
+
+
+6)When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Ans:	When working alone or with two people working on the master is helpful whereas while collaborating
+	with a large group of people working on separate branches is helpful to keep track of which changes are already reviewed.
